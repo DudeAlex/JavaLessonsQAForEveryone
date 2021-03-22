@@ -1,0 +1,2 @@
+# JavaLessonsQAForEveryone
+QAForEveryone projects
